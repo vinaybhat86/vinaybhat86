@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **Node.js,Express.js**
 
-- 👨‍💻 All of my projects are available at [https://vinaybhat86.github.io/portfolio/](https://vinaybhat86.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [vinay-portfolio.dev](https://vinayk-portfolio.netlify.app/)
 
 - 💬 Ask me about **Html,CSS,Javascript,React JS**
 
 - 📫 How to reach me **vinaybhat1209@gmail.com**
 
-- 📄 Resume [https://vinaybhat86.github.io/portfolio/](https://vinaybhat86.github.io/portfolio/)
+- 📄 Resume [vinay-resume.dev](https://vinayk-portfolio.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
